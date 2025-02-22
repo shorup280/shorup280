@@ -11,8 +11,8 @@ I recently completed the Google Data Analytics course, where I gained hands-on e
 - **Other Skills:** Data cleaning, statistical analysis, problem-solving  
 
 ## 🚀 Current Focus
-I'm currently working on my capstone project for the Google Data Analytics certification.  
-My goal is to build a portfolio that showcases my ability to analyze datasets, visualize results, and tell stories with data.
+After mastering Python, I'm now focused on building a robust mathematical foundation for data science. 
+I believe that deepening my understanding of key mathematical concepts will enhance my analytical skills and empower me to tackle complex data challenges
 
 ## 🌟 Goals
 - To gain hands-on experience by working on real-world data analysis projects.  
